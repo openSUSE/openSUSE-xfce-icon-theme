@@ -30,13 +30,13 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="g1219"
+     inkscape:current-layer="svg258"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="104.36323"
-     inkscape:cx="-3.5883406"
-     inkscape:zoom="2.8284271"
+     inkscape:cy="-386.37608"
+     inkscape:cx="-93.147814"
+     inkscape:zoom="0.7071068"
      showgrid="true"
      id="namedview260"
      inkscape:window-height="1023"
@@ -57,18 +57,6 @@
   </sodipodi:namedview>
   <defs
      id="defs206">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1722">
-      <stop
-         style="stop-color:#006888;stop-opacity:1"
-         offset="0"
-         id="stop1718" />
-      <stop
-         style="stop-color:#00aade;stop-opacity:1"
-         offset="1"
-         id="stop1720" />
-    </linearGradient>
     <clipPath
        id="Y">
       <path
@@ -254,18 +242,9 @@
          fill="url(#w)"
          id="path1260-6-1" />
     </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1722"
-       id="linearGradient1724"
-       x1="68"
-       y1="116"
-       x2="68"
-       y2="12"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
-     style="fill:url(#linearGradient1724);stroke-width:0.866667;fill-opacity:1"
+     style="fill:#00aade;stroke-width:0.866667;fill-opacity:1"
      d="M 116,64 C 116,92.718733 92.71873,116 64,116 35.28127,116 12,92.718733 12,64 12,35.281267 35.28127,12 64,12 c 28.71873,0 52,23.281267 52,52 z m 0,0"
      fill="url(#r)"
      id="path212-9-7" />
@@ -316,12 +295,12 @@
   </g>
   <path
      style="fill:#006888;stroke-width:0.866667"
-     d="m 116,64 c 0,28.718733 -23.498918,49.63004 -52.217648,49.63004 -28.71873,0 -51.505944,-21.094752 -51.505944,-49.813485 C 12.276408,35.097822 35.28127,12 64,12 c 28.71873,0 52,23.281267 52,52 z"
+     d="m 116,64 c 0,5.856 -1.32812,10.296665 -3.12726,15.392321 -7.0241,19.89423 -26.227657,34.237719 -49.090388,34.237719 -14.277935,0 -27.148828,-6.27189 -36.423226,-15.044622 C 17.97894,89.712625 12.276408,78.257352 12.276408,63.816555 12.276408,35.097822 35.28127,12 64,12 c 28.71873,0 52,23.281267 52,52 z"
      fill="url(#r)"
      id="path212-9-7-5-2"
      clip-path="url(#clipPath1258-5)"
      transform="translate(0,1.875)"
-     sodipodi:nodetypes="sssss" />
+     sodipodi:nodetypes="sssssss" />
   <path
      style="fill:#6acfec;stroke-width:0.866667"
      d="m 116,64 c 0,28.718733 -23.28127,52 -52,52 -6.396509,0 -12.523275,-1.15495 -18.183135,-3.26768 C 26.065365,105.3594 12,86.322223 12,64 12,35.281267 35.28127,12 64,12 c 28.71873,0 52,23.281267 52,52 z"
@@ -330,44 +309,4 @@
      clip-path="url(#clipPath1258)"
      transform="translate(0,-0.125)"
      sodipodi:nodetypes="ssssss" />
-  <g
-     id="g1219"
-     transform="matrix(-1,0,0,1,116,-8)"
-     style="fill:#d2d8dc">
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       xlink:href="#V"
-       transform="translate(-10,-9)"
-       mask="url(#W-0)"
-       id="use246"
-       style="fill:#d2d8dc" />
-    <g
-       id="g1213"
-       style="fill:#d2d8dc">
-      <path
-         sodipodi:nodetypes="cccccccc"
-         style="fill:#758087;stroke-width:0.990879"
-         d="M 48,52 0,95.967845 21.563309,96.664823 12.521653,115.46737 c -2.7847903,8.35779 9.737853,11.49072 11.826446,5.22486 L 32.696528,101.88472 48,118.25132 Z"
-         fill-rule="evenodd"
-         fill="url(#X)"
-         id="path248-0" />
-      <path
-         id="path248-0-9"
-         fill="url(#X)"
-         fill-rule="evenodd"
-         d="M 48,50 0,93.967845 21.563309,94.664823 12.521653,113.46736 c -2.78479,8.35779 9.737853,11.49072 11.826446,5.22486 L 32.696528,99.88472 48,116.25132 Z"
-         style="fill:#d2d8dc;stroke-width:0.990879"
-         sodipodi:nodetypes="cccccccc" />
-    </g>
-  </g>
-  <path
-     id="path248-0-9-7"
-     fill="url(#X)"
-     fill-rule="evenodd"
-     d="m 71,48 37,35 H 90 l 11,23 c 1,6 -5.91141,7.26586 -8,1 L 84,87 71,101 Z"
-     style="fill:#263742;stroke-width:0.990879"
-     sodipodi:nodetypes="cccccccc" />
 </svg>
