@@ -1,10 +1,13 @@
+
+
+
 [Icon Theme]
 Name=openSUSE-Xfce
 Comment=openSUSE Xfce Default Icon Theme
 Inherits=Adwaita
 Example=folder
 
-Directories=16x16/apps,16x16/actions,22x22/apps,22x22/actions,24x24/apps,24x24/actions,32x32/apps,32x32/actions,48x48/apps,48x48/actions,64x64/apps,72x72/apps,96x96/apps,128x128/apps,256x256/apps,scalable/apps,scalable/status,scalable/categories
+Directories=16x16/apps,22x22/apps,24x24/apps,32x32/apps,48x48/apps,64x64/apps,72x72/apps,96x96/apps,128x128/apps,256x256/apps,scalable/apps,scalable/status,scalable/categories
 
 [16x16/apps]
 Context=Applications
